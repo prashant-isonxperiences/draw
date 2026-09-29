@@ -726,3 +726,6 @@ Event types (JSON messages):
 7. Sharing + public view
 8. Comments + WebSocket collaboration
 9. PNG/SVG/PDF export, templates, ORM export, API keys
+
+
+<!-- DATABASE_URL="mysql+pymysql://draw_user:test%40123@localhost:3306/draw_db" -->
